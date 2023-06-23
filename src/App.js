@@ -1,4 +1,4 @@
-import { createStore } from "./Redux";
+import { createStore } from "redux";
 
 function App() {
   return <div className="App"></div>;
